@@ -1,9 +1,9 @@
 # transfat
 
 ## Purpose
-transfat's purpose is to make playing music files on your car stereo over USB not a total nightmare. Some car stereos play audio files from a (FAT-only) USB device in the order that the files were transfered to the device—which is in general not alphanumeric order. This means that when you put on an album, it might start from track 6, then go to track 9 or something. To make things worse, many of these stereos demand that your audio files be either MP3s or WMAs; so say good-bye to your FLACs and Oggs.
+transfat's purpose is to make playing music files on your car stereo over USB not a total nightmare. Some car stereos play audio files from a (FAT-only) USB device in the order that the files were transfered to the device—which is in general not alphanumeric order. This means that when you put on an album, it may play the tracks in an arbituary order. To make things worse, many of these stereos demand that your audio files be either MP3s or WMAs; so say good-bye to your FLACs and Oggs.
 
-Ideally, car stereos should not depend on these small details, but unfortunately, many do. That's where **transfat** comes in:
+Car stereos should not depend on these small details, but unfortunately, many do. That's where **transfat** comes in:
 
 **transfat** transfers audio files to FAT devices and worries about the annoying details of your car stereo so that you don't have to.
 
